@@ -57,4 +57,4 @@ collections:
     permalink: /blog/:year/:month/:day/:title/
     output: true
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
